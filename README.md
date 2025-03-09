@@ -12,7 +12,6 @@ Welcome to Odin Recipes! This project is a collection of delicious recipes prese
 - [Styles](#styles)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
